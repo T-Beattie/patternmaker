@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>splash.png</file>
+    <file>yarnie.png</file>
+  </qresource>
+</RCC>
