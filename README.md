@@ -1,3 +1,5 @@
+![splash](https://github.com/T-Beattie/patternmaker/assets/2911688/344745f3-0c7b-4d02-a860-45f21681fe49)
+
 # Crochet Pattern Maker
 
 ## Description
